@@ -1,0 +1,5 @@
+cd C:\Users\madhav\Documents\My Games\Skyrim Special Edition GOG
+git add --all
+git commit -m "init"
+git push
+exit
